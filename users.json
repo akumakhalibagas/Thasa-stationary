@@ -6,5 +6,15 @@
     "email": "futi.kasiha@gmail.com",
     "password": "cantik",
     "id": "82ee8f06"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "inter",
+    "id": "4ad2053d"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "interisti",
+    "id": "53552db8"
   }
 ]
