@@ -16,5 +16,20 @@
     "email": "test2@test.com",
     "password": "interisti",
     "id": "53552db8"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "test",
+    "id": "7b8ab0a4"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "12345",
+    "id": "35d77e9b"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "2b84abade9be4e839595f45f3f91d0940b483d0a8ce896691b33a57e35f624da955868586af4ddfd034be159fe0522735a555b56cd1829f545b7bb1bd2ce94cd.8c03c0b878850275",
+    "id": "ad8c708d"
   }
 ]
