@@ -14,12 +14,7 @@ module.exports = ({ products }) => {
               <h5>$${product.price}</h5>
             </div>
             <footer class="card-footer">
-              <form action="/cart/products" method="POST">
-                <input hidden value="${product.id}" name="productId" />
-                <button class="button has-icon is-inverted">
-                  <i class="fa fa-shopping-cart"></i> Add to cart
-                </button>
-              </form>
+
             </footer>
           </div>
         </div>
@@ -43,7 +38,7 @@ module.exports = ({ products }) => {
             <div class="column "></div>
             <div class="column is-four-fifths">
               <div>
-                <h2 class="title text-center">Featured Items</h2>
+                <h2 class="title text-center">Alat Tulis</h2>
                 <div class="columns products">
                   ${renderedProducts}  
                 </div>

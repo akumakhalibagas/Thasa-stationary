@@ -19,20 +19,18 @@ module.exports = ({ content }) => {
               <div>
                 <ul class="social">
                   <li>
-                    <a href=""><i class="fa fa-phone"></i>+1 555 987 6543</a>
+                    <a href=""><i class="fa fa-phone"></i>+6282247406001</a>
                   </li>
                   <li>
-                    <a href=""><i class="fa fa-envelope"></i> shop@myshop.com</a>
+                    <a href=""><i class="fa fa-envelope"></i> help@thasastationary.com</a>
                   </li>
                 </ul>
               </div>
               <div>
                 <ul class="social">
-                  <li><a href=""><i class="fab fa-facebook"></i></a></li>
-                  <li><a href=""><i class="fab fa-twitter"></i></a></li>
-                  <li><a href=""><i class="fab fa-linkedin"></i></a></li>
-                  <li><a href=""><i class="fab fa-dribbble"></i></a></li>
-                  <li><a href=""><i class="fab fa-google-plus"></i></a></li>
+                  <li><a href="https://www.instagram.com/thasastationary"><i class="fab fa-facebook"></i></a></li>
+                  <li><a href="https://www.twitter.com/thasastationary"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/thasastationary"><i class="fab fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -41,7 +39,7 @@ module.exports = ({ content }) => {
             <div class="container navbar-container">
               <div>
                 <a href="/">
-                  <h3 class="title">EComm Shop</h3>
+                  <h3 class="title">Thasa stationary</h3>
                 </a>
               </div>
               <div class="navbar-item">
@@ -50,7 +48,7 @@ module.exports = ({ content }) => {
                     <a href="/"><i class="fa fa-star"></i> Products</a>
                   </div>
                   <div class="navbar-item">
-                    <a href="/cart"><i class="fa fa-shopping-cart"></i> Cart</a>
+                    <a href="/signin"><i class="fa fa-add"></i> Admin</a>
                   </div>
                 </div>
               </div>
