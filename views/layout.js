@@ -22,15 +22,15 @@ module.exports = ({ content }) => {
                     <a href=""><i class="fa fa-phone"></i>+6282247406001</a>
                   </li>
                   <li>
-                    <a href=""><i class="fa fa-envelope"></i> help@thasastationary.com</a>
+                    <a href=""><i class="fa fa-envelope"></i> help@thasastationery.com</a>
                   </li>
                 </ul>
               </div>
               <div>
                 <ul class="social">
-                  <li><a href="https://www.instagram.com/thasastationary"><i class="fab fa-facebook"></i></a></li>
-                  <li><a href="https://www.twitter.com/thasastationary"><i class="fab fa-twitter"></i></a></li>
-                  <li><a href="https://www.instagram.com/thasastationary"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="https://www.instagram.com/thasastationery"><i class="fab fa-facebook"></i></a></li>
+                  <li><a href="https://www.twitter.com/thasastationery"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/thasastationery"><i class="fab fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -39,7 +39,7 @@ module.exports = ({ content }) => {
             <div class="container navbar-container">
               <div>
                 <a href="/">
-                  <h3 class="title">Thasa stationary</h3>
+                  <h3 class="title">Thasa Stationery</h3>
                 </a>
               </div>
               <div class="navbar-item">
